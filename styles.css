@@ -1,0 +1,23 @@
+.section {
+    background: url("/menu/main.jpg") no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    height: 100vh;
+    width: 100%;
+}
+
+.contact {
+    background: url("/menu/contact.jpg") no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    height: 60vh;
+    width: 100%;
+    
+}
+.about {
+    background: url("/menu/about.jpg") no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    height: 80vh;
+    width: 100%;
+}
