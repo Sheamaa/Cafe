@@ -1,5 +1,5 @@
 .section {
-    background: url("/menu/main.jpg") no-repeat;
+    background: url("menu/main.jpg") no-repeat;
     background-size: cover;
     background-position: 50%;
     height: 100vh;
@@ -7,7 +7,7 @@
 }
 
 .contact {
-    background: url("/menu/contact.jpg") no-repeat;
+    background: url("menu/contact.jpg") no-repeat;
     background-size: cover;
     background-position: 50%;
     height: 60vh;
@@ -15,7 +15,7 @@
     
 }
 .about {
-    background: url("/menu/about.jpg") no-repeat;
+    background: url("menu/about.jpg") no-repeat;
     background-size: cover;
     background-position: 50%;
     height: 80vh;
